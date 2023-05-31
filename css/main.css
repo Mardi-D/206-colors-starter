@@ -35,6 +35,7 @@ header {
 
 #column-1 {
   background: pink;
+
 }
 
 #column-2 {
@@ -78,7 +79,9 @@ footer {
   footer {
     background-color: ;
   }
-  
+  .col-3 {
+    width: 50%;
+  }
 }
 
 
@@ -103,5 +106,6 @@ footer {
   footer {
     background-color: ;
   }
-   
+  .col-3 {
+    width: 33.3%;
 }
